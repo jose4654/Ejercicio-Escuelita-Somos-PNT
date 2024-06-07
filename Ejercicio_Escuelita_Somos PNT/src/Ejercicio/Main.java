@@ -25,7 +25,7 @@ public class Main {
 	
 	
 	
-//carga de productos sin depender de la cantidad o tipo de productos.
+
 	    private static List<Producto> cargarProductos() {
 	        List<Producto> productos = new ArrayList<>();
 	        productos.add(new Bebida("Coca-Cola Zero", 1.5, 20));
